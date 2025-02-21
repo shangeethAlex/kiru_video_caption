@@ -1,0 +1,3 @@
+Welcome to the video captioning demo.
+This text will change every 3 seconds.
+
